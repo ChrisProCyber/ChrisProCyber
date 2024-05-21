@@ -11,7 +11,9 @@ Chris is now seeking to bring his extensive knowledge and expertise to a dynamic
 
 ![Static Badge](https://img.shields.io/badge/EnCE-blue?logo=opentext)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCPA-orange)
-
+![Static Badge](https://img.shields.io/badge/Cellebrite-CCO-orange)
+![Static Badge](https://img.shields.io/badge/Cellebrite-CCPO-orange)
+![Static Badge](https://img.shields.io/badge/NW3C-3CE-white?labelColor=blue)
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
