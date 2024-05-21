@@ -8,13 +8,10 @@ Chris is a dedicated and results-oriented individual with over a decade of exper
 Chris is now seeking to bring his extensive knowledge and expertise to a dynamic organization, where he can contribute to the field of cybersecurity. With a proven track record of success and a passion for excellence, Chris is poised to make a significant impact in any role he undertakes. Chris is currently seeking out and attending challenging yet relevant training and certifications within the cybersecurity field.
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+![Static Badge](https://img.shields.io/badge/EnCE-blue?logo=opentext)
+![Static Badge](https://img.shields.io/badge/Cellebrite-CCPA-orange)
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
