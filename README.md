@@ -3,9 +3,17 @@
 
 Chris is a dedicated and results-oriented individual with over a decade of experience in all facets of digital forensic examinations.  
 
-## Objective
+## Professional Statement
 
-Chris is now seeking to bring his extensive knowledge and expertise to a dynamic organization, where he can contribute to the field of cybersecurity. With a proven track record of success and a passion for excellence, Chris is poised to make a significant impact in any role he undertakes. Chris is currently seeking out and attending challenging yet relevant training and certifications within the cybersecurity field.
+Chris is now seeking to bring his extensive knowledge and expertise to a dynamic organization, where he can continue to contribute to the field of cybersecurity. With a proven track record of success and a passion for excellence, Chris is poised to make a significant impact in any role he undertakes. Chris is currently seeking out and attending challenging yet relevant training and certifications within the cybersecurity field.
+
+Chris is a dedicated and results-oriented Digital Forensic Examiner with over two decades of experience in law enforcement and military environments. With proven expertise in conducting complex digital forensic analyses, Chris has played a pivotal role in investigations involving Internet Crimes Against Children, homicides, and cybercrimes. As a decorated former United States Army Warrant Officer, Chris has consistently demonstrated leadership in managing projects and teams, developing standard operating procedures, and providing expert testimony in court.
+
+Chris's extensive experience includes serving as a Senior Digital Forensic Investigator with the Vancouver Police Department, where he was recognized as a Subject Matter Expert in digital media investigations and internet crime against children’s investigations. Chris's strategic approach led to the creation of a cutting-edge digital forensic unit and an integrated access and storage solution with the digital evidence cybercrime unit, significantly enhancing the unit’s and department’s capabilities.
+
+With a Bachelor of Arts in Criminal Justice from American Military University, Chris's academic background is complemented by a high GPA and numerous professional certifications, including being a National White Collar Crime Center Certified Cyber Crime Examiner and an EnCase Certified Examiner along with multiple Cellebrite certifications. These credentials underscore Chris's commitment to continuous learning and staying at the forefront of the rapidly evolving field of cybersecurity. 
+
+Throughout his career, Chris has been instrumental in developing investigative methodologies, onboarding procedures, and quality assurance processes that ensure thorough and timely examinations. By leveraging his deep technical knowledge and leadership skills, Chris has increased the effectiveness of digital forensic units, provided critical in-service training, and gained public trust through community outreach and education.
 
 ## Recent Projects
 - Pending
