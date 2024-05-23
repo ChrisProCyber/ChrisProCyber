@@ -16,7 +16,11 @@ With a Bachelor of Arts in Criminal Justice from American Military University, C
 Throughout his career, Chris has been instrumental in developing investigative methodologies, onboarding procedures, and quality assurance processes that ensure thorough and timely examinations. By leveraging his deep technical knowledge and leadership skills, Chris has increased the effectiveness of digital forensic units, provided critical in-service training, and gained public trust through community outreach and education.
 
 ## Recent Projects
-- Pending
+
+| Project                                       | Link to Project Description or Report        |
+|-----------------------------------------------|----------------------------|
+| Security Audit                                | Security Audit Results ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Security%20Audit%20Results.pdf) and Appendix 1 ([document](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Appendix%201.pdf))|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
