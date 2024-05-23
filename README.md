@@ -53,11 +53,12 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 ## Certifications
 
-![Static Badge](https://img.shields.io/badge/EnCE-blue?logo=opentext)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Prothero%20EnCase%20Cert%20w_%20Wallet%20Card%202017.pdf)
+[<img src="https://img.shields.io/badge/EnCE-blue?logo=opentext">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Prothero%20EnCase%20Cert%20w_%20Wallet%20Card%202017.pdf)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCPA-orange)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCO-orange)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCPO-orange)
 ![Static Badge](https://img.shields.io/badge/NW3C-3CE-white?labelColor=blue)
+
 
 ## Training and Certificates
 
