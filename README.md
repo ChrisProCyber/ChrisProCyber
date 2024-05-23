@@ -17,7 +17,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 ## Recent Projects
 
-| Project                                       | Link to Project Description or Report        |
+| Project| Link to Project Description or Report|
 |-----------------------------------------------|----------------------------|
 | Security Audit                                | Security Audit Results ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Security%20Audit%20Results.pdf) and Appendix 1 ([document](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Appendix%201.pdf))|
 | SIEM | <a href="https://google.com">Detection Lab</a>|
@@ -53,7 +53,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 ## Certifications
 
-![Static Badge](https://img.shields.io/badge/EnCE-blue?logo=opentext)
+![Static Badge](https://img.shields.io/badge/EnCE-blue?logo=opentext)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Prothero%20EnCase%20Cert%20w_%20Wallet%20Card%202017.pdf)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCPA-orange)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCO-orange)
 ![Static Badge](https://img.shields.io/badge/Cellebrite-CCPO-orange)
