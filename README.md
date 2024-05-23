@@ -19,7 +19,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 | Project| Link to Project Description or Report|
 |-----------------------------------------------|----------------------------|
-| Security Audit                                | Security Audit Results ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Security%20Audit%20Results.pdf) and Appendix 1 ([document](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Appendix%201.pdf))|
+| Security Audit                                | Security Audit Results ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Security%20Audit%20Results.pdf) and Appendix 1 ([Document](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Appendix%201.pdf))|
 | SIEM | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
