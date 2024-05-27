@@ -52,12 +52,13 @@ Throughout his career, Chris has been instrumental in developing investigative m
 </div>
 
 ## Certifications
+*Click on Badge to View Certificate*
 
 [<img src="https://img.shields.io/badge/EnCE-blue?logo=opentext">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Prothero%20EnCase%20Cert%20w_%20Wallet%20Card%202017.pdf)
-![Static Badge](https://img.shields.io/badge/Cellebrite-CCPA-orange)
-![Static Badge](https://img.shields.io/badge/Cellebrite-CCO-orange)
-![Static Badge](https://img.shields.io/badge/Cellebrite-CCPO-orange)
-![Static Badge](https://img.shields.io/badge/NW3C-3CE-white?labelColor=blue)
+[<img src="https://img.shields.io/badge/Cellebrite-CCPA-orange">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Cellebrite%20CCPA%20Recertification%202023_2025.pdf)
+[<img src="https://img.shields.io/badge/Cellebrite-CCO-orange">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Cellebrite%20CCO%20Recertification%202023_2025.pdf)
+[<img src="https://img.shields.io/badge/Cellebrite-CCPO-orange">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Cellebrite%20CCPO%20Certification%202023_2025.pdf)
+[<img src="https://img.shields.io/badge/NW3C-3CE-white?labelColor=blue">](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/NW3C%20Cert%202024_2025.pdf)
 
 
 ## Training and Certificates
