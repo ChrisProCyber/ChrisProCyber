@@ -22,7 +22,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 | Security Audit                                | Security Audit Results ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Security%20Audit%20Results.pdf) and Appendix 1 ([Document](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Appendix%201.pdf))|
 |Cybersecurity Incident Report-Network Traffic Analysis  | Summary of Findings ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/Cybersecurity%20Incident%20Report%20Network%20Ttraffic%20Analysis.pdf) |
 | Elastic Stack SIEM Configuration and Management | ([Project Description)](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2)
-| File Permissions in Linux                       | Project Activity and Description (Report) |
+| File Permissions in Linux                       | Project Activity and Description ([Report)](https://github.com/ChrisProCyber/ChrisProCyber/blob/main/File%20permissions%20in%20Linux.pdf) |
 ## Tools
 
 ### Network
