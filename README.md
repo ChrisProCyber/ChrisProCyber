@@ -104,3 +104,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 | 07/2012  | Computer Incident Responders Course                                 | 80 hours – Defense Cyber Investigations Training Academy, Linthicum, MD |
 | 07/2012  | Introduction to Networks and Computer Hardware                      | 80 hours – Defense Cyber Investigations Training Academy, Linthicum, MD |
 | 05/2003  | Introduction to Computer Search and Seizure                         | 24 hours – Department of Defense Computer Investigations Training Academy, Fort Leonard Wood, MO |
+
+## Work/Life Balance and Hobbies
+
+
