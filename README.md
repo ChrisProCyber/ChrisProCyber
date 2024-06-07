@@ -107,6 +107,11 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 ## Work/Life Balance and Hobbies
 
-<img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/IMG_20240601_122027.jpg" width="300">
-<img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/IMG_20240601_122048.jpg" width="300">
-<img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/20240601_190627.jpg" width="300" >
+**Helping Friends Steal Honey**
+<p align="left"> <img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/IMG_20240601_122027.jpg" width="300">
+
+**Job Well Done**
+<p align="left"> <img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/IMG_20240601_122048.jpg" width="300">
+
+**Fruits of Our Labor (Bees Knees Cocktails)**
+<p align="left"> <img src="https://github.com/ChrisProCyber/ChrisProCyber/blob/main/20240601_190627.jpg" width="300" >
