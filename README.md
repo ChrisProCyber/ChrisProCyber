@@ -106,5 +106,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 | 05/2003  | Introduction to Computer Search and Seizure                         | 24 hours – Department of Defense Computer Investigations Training Academy, Fort Leonard Wood, MO |
 
 ## Work/Life Balance and Hobbies
-
+![IMG_20240601_122027](https://github.com/ChrisProCyber/ChrisProCyber/assets/170461611/4b92f2b0-7b83-48a6-825c-df3c8148c9dc)
+![IMG_20240601_122048](https://github.com/ChrisProCyber/ChrisProCyber/assets/170461611/fc3cf8de-ee4a-4899-a1f7-a46f08f80b7f)
+![20240601_190627](https://github.com/ChrisProCyber/ChrisProCyber/assets/170461611/6974c27b-e6a9-44fc-99da-70b8d1e3e031)
 
