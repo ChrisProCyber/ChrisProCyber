@@ -66,6 +66,7 @@ Throughout his career, Chris has been instrumental in developing investigative m
 
 | Date     | Training Title                                                      | Details                                              |
 |----------|---------------------------------------------------------------------|------------------------------------------------------|
+| 07/2024  | Google Cybersecurity Proffessional Certificate                      | 80 hours – Google, Online                            |
 | 04/2024  | Structured Query Language (SQL) Masterclass                         | 14.5 hours – Nikolai Schuler/Udemy, Online           |
 | 07/2023  | Cellebrite Certified Premium Operator                               | 14 hours – Cellebrite, Online                        |
 | 05/2023  | Basic Historical Cell Site Analysis Course                          | 16 hours – FBU Cellular Analysis Team (CAST), Vancouver, WA |
